@@ -1,2 +1,8 @@
 # Sport-UK-Workforce-Dashboard
-Dive into the UK Sports Workforce with our Power BI dashboard—a sleek compilation of 9 pages featuring a centralized main control hub. Uncover valuable insights through a plethora of visualizations and robust dataset preprocessing. Elevate your understanding with this concise, visually striking tool.
+
+## Project Description  
+
+Explore the dynamic landscape of the UK sports workforce through this compelling Power BI dashboard. Boasting nine meticulously crafted pages, anchored by a centralized main page control, the dashboard offers a wealth of visualizations and robust preprocessing techniques. Gain unparalleled insights into the intricacies of the dataset, meticulously presented through an array of engaging and informative visuals. Elevate your understanding of the UK sports workforce with this comprehensive and visually stunning data exploration tool.
+
+![image](Dashboard Screenshots/Main Page.png)
+
