@@ -20,10 +20,12 @@ Effortlessly navigate through these informative sections, gaining profound insig
 ![image](https://github.com/zeidzen/Sport-UK-Workforce-Dashboard/assets/36964163/6c0fe121-a243-4972-9a42-15584708a4e7)
 
 
-## Examples Page:
+## Pages Examples :
 
+Demographics Page:
 ![image](https://github.com/zeidzen/Sport-UK-Workforce-Dashboard/assets/36964163/b81a0bc8-d60d-4ceb-9fe0-03eb6f41166f)
 
+Recruitment Activity Part 2 Page:
 ![image](https://github.com/zeidzen/Sport-UK-Workforce-Dashboard/assets/36964163/29b7b47d-9ab7-404f-9cd8-606cbeee1919)
 
 
