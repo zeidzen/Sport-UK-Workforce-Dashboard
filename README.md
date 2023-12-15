@@ -11,8 +11,8 @@ Explore the dynamic landscape of the UK sports workforce with our compelling Pow
 - Recruitment Activity - Part 1
 - Recruitment Activity - Part 2
 - Skills in Sports & Performance Arts - Part 1
+- Skills in Sports & Performance Arts - Part 2
 
-Skills in Sports & Performance Arts - Part 2
 Effortlessly navigate through these informative sections, gaining profound insights into demographics, regional dynamics, occupation skills, workforce composition, recruitment activities, and specialized skills in sports and performance arts. Empower your data-driven decisions with this meticulously crafted and user-friendly dashboard experience.
 
 ## Main Dashboard Preview:
